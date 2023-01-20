@@ -1,0 +1,16 @@
+.header {
+  background-color: #264653;
+  height: 100%;
+}
+.btn-bz-primary {
+  background-color: #e76f51;
+  color: white;
+  padding: 10px 24px;
+}
+.top-banner {
+  width: 80%;
+  margin: auto;
+}
+.banner-content {
+  color: #e0e0e0;
+}
